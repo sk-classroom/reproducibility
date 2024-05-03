@@ -13,6 +13,9 @@ Implement the workflow described below:
 6. **Evaluation**: Computes AUC ROC scores for model performance, saving results.
 7. **Plotting**: Generates and saves a plot comparing AUC ROC scores across models and folds.
 
+# Answer for the task
+
+- [Snakefile_answer](./Snakefile_answer)
 
 # Tips for Snakemake
 
